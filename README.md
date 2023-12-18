@@ -4,9 +4,8 @@
 
 <div align="center">
  
-  ☆ I’m currently working on Moovefy
  
-  ☆ I’m currently learning .Net core, Entity Framework Core, Python and Java
+  ☆ I’m currently learning .Net core, Entity Framework Core and Python.
 
   ☆ Fun fact: In addition to being a junior full-stack developer, I'm also a musician. I sing and play four instruments, all self-taught.
  
