@@ -17,6 +17,10 @@ Besides technology, I'm a self-taught musician - I sing and play four instrument
 [![Linkedin: ana-juliagaspar](https://img.shields.io/badge/-ana--juliagaspar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-juliagaspar/)](https://www.linkedin.com/in/ana-juliagaspar/)
 [![GitHub najuzinh4](https://img.shields.io/github/followers/najuzinh4?label=follow&style=social)](https://github.com/najuzinh4)
 
+## 📊 GitHub Statistics
+<div align="center"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=najuzinh4&show_icons=true&count_private=true&hide_border=true&title_color=BEA9DE&icon_color=9472c9&text_color=9472c9&bg_color=0d1117" alt="GitHub Stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuzinh4&layout=compact&hide_border=true&title_color=BEA9DE&text_color=9472c9&bg_color=0d1117" />
+</div>
+
 ## 🛠️ Languages and Tools
 
 <details>
@@ -42,12 +46,6 @@ Besides technology, I'm a self-taught musician - I sing and play four instrument
   </p>
 </details>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=najuzinh4&show_icons=true&count_private=true&hide_border=true&title_color=BEA9DE&icon_color=9472c9&text_color=9472c9&bg_color=0d1117" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najuzinh4&layout=compact&hide_border=true&title_color=BEA9DE&text_color=9472c9&bg_color=0d1117" />
-</div>
 
 ## 🌟 Professional Experience
 
@@ -84,9 +82,6 @@ Moovefy - August 2023 – June 2024
   </a>
 </div>
 
-<div align=center>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/najuzinh4/najuzinh4/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
